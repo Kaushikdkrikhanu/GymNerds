@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Gym Nerds</string>
+    <string name="floating_button_text">Create</string>
+    <string name="SQLiteException">Database unavailable</string>
+    <string name="weight">Weight</string>
+    <string name="reps">Reps</string>
+    <string name="increment">+</string>
+    <string name="sets">Sets</string>
+    <string name="update">UPDATE</string>
+    <string name="createWorkout">Create Workout</string>
+    <string name="body_tracker">Body Tracker</string>
+    <string name="content_description_body_tracker">Track weight/muscle mass/height</string>
+    <string name="calendar">Calendar</string>
+    <string name="add">Add</string>
+    <string name="notSelected">Select any set</string>
+    <string name="newExercise">New Exercise</string>
+    <string name="name">NAME :</string>
+    <string name="category">CATEGORY :</string>
+    <string name="save">SAVE</string>
+    <string name="selectExercise">Select Exercise</string>
+    <string name="yourWorkouts">Your Workouts</string>
+    <string name="addExercise">Add Exercise</string>
+    <string-array name="categories">
+        <item>Chest</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        <item>Legs</item>
+        <item>Back</item>
+        <item>Abs</item>
+        <item>Cardio</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
